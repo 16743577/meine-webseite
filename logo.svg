@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="140" viewBox="0 0 520 140">
+  <rect width="520" height="140" fill="white"/>
+  <path d="M130 58 L255 10 L390 58" stroke="#c21822" stroke-width="6" fill="none"/>
+  <text x="24" y="82" font-family="Inter, Arial, sans-serif" font-size="28" fill="#111">andreas</text>
+  <text x="145" y="95" font-family="Inter, Arial, sans-serif" font-size="82" fill="#111" font-weight="500">Jähne</text>
+  <text x="150" y="126" font-family="Inter, Arial, sans-serif" font-size="21" fill="#c21822" font-weight="700">BAUBETREUUNG &amp; BERATUNG</text>
+</svg>
