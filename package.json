@@ -1,0 +1,8 @@
+{
+  "name": "meine-webseite",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf dist && mkdir -p dist/assets && cp index.html dist/index.html && cp src/styles.css dist/assets/styles.css && cp src/main.js dist/assets/main.js"
+  }
+}
